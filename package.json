@@ -1,0 +1,12 @@
+{
+  "name": "brainfog-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brainfog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kysadro",
+  "license": "MIT"
+}
