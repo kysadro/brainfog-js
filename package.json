@@ -1,12 +1,17 @@
 {
   "name": "brainfog-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Random string generation",
   "main": "brainfog.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["file-storage", "brainfog"],
   "author": "Kysadro",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kysadro/brainfog-js.git"
+  },
+  "homepage": "https://github.com/kysadro/brainfog-js"
 }
