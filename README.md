@@ -4,7 +4,7 @@
 
 Example code:
 ```javascript
-const brainfog = require("brainfog");
+const brainfog = require("brainfog-js");
 
 // License key generation
 const licenseCode = brainfog.generateLicense(); // (Has optional arguments)
