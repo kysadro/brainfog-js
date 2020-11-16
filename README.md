@@ -27,4 +27,4 @@ console.log(string); // Outputs out random strings like "rhviwucmcx", "xtgltfjmz
 ```
 
 ## 1. Installing Brainfog-JS:
-    npm install brainfog
+    npm install brainfog-js

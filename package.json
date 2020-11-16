@@ -1,6 +1,6 @@
 {
   "name": "brainfog-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random string generation",
   "main": "brainfog.js",
   "scripts": {
